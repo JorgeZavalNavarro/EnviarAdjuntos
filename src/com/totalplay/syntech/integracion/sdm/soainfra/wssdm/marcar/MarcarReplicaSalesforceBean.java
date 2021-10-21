@@ -44,8 +44,10 @@ public class MarcarReplicaSalesforceBean {
                 // Si retorna 0 es que ya esta apartado el registro y tenemos que sacar esxception
                 if(retUpdate == 0){
                     String error = "Ya se está procesando para el adjunto id: " + idAdjunto + " ya que su registro se encuentra marcado con: " + AppPropsBean.getPropsVO().getAdjuntoMarcaReplicadoSalesforce();
-                    log.error(error);
-                    throw new MarcarReplicaSalesforceException(error);
+                    log.info(error);
+                    log.info("Nada por procesar.");
+                    System.exit(0);
+                    // throw new MarcarReplicaSalesforceException(error);
                 }
 
                 // 
