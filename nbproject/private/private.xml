@@ -2,13 +2,6 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group>
-            <file>file:/C:/SYNTECH/SERVICIOS/TotalPlay/WebServiceConsultasPDR/Desarrollo/EnviarAdjuntos/src/com/totalplay/syntech/integracion/sdm/soainfra/wssdm/enviar/EnviarAdjuntos.java</file>
-            <file>file:/C:/SYNTECH/SERVICIOS/TotalPlay/WebServiceConsultasPDR/Desarrollo/EnviarAdjuntos/src/com/totalplay/syntech/integracion/sdm/soainfra/wssdm/descomprimir/gz/DescomprimireGZBean.java</file>
-            <file>file:/C:/SYNTECH/SERVICIOS/TotalPlay/WebServiceConsultasPDR/Desarrollo/EnviarAdjuntos/src/com/totalplay/syntech/integracion/sdm/soainfra/wssdm/enviar/EnviarArchivoBean.java</file>
-            <file>file:/C:/SYNTECH/SERVICIOS/TotalPlay/WebServiceConsultasPDR/Desarrollo/EnviarAdjuntos/src/com/totalplay/syntech/integracion/sdm/soainfra/wssdm/marcar/MarcarReplicaSalesforceBean.java</file>
-            <file>file:/C:/SYNTECH/SERVICIOS/TotalPlay/WebServiceConsultasPDR/Desarrollo/EnviarAdjuntos/build.xml</file>
-            <file>file:/C:/SYNTECH/SERVICIOS/TotalPlay/WebServiceConsultasPDR/Desarrollo/EnviarAdjuntos/src/com/totalplay/syntech/integracion/sdm/soainfra/wssdm/adjuntos/ConsultaAdjuntosBean.java</file>
-        </group>
+        <group/>
     </open-files>
 </project-private>
